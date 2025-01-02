@@ -22,7 +22,17 @@ Um repositório de todos os termos que eu tive contato e que achei útil salvar.
 16. https://nordlayer.com/privacy-policy/
 17. https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers
 18. https://www.cisco.com/c/en/us/about/legal/privacy-full.html
-19. 
+19. https://visualstudio.microsoft.com/pt-br/license-terms/mlt031519/
+20. https://visualstudio.microsoft.com/pt-br/license-terms/mlt031619/
+21. https://www.microsoft.com/content/dam/microsoft/usetm/documents/windows/11/oem-(pre-installed)/UseTerms_OEM_Windows_11_English.pdf
+22. https://www.microsoft.com/pt-br/store/b/terms-of-sale?rtc=1
+23. https://visualstudio.microsoft.com/pt-br/license-terms/devessentials/
+24. https://visualstudio.microsoft.com/pt-br/license-terms/vs2022-ga-community/
+25. https://visualstudio.microsoft.com/pt-br/license-terms/vs2022-ga-diagnosticbuildtools/
+26. https://www.microsoft.com/pt-br/useterms?oneroute=true
+27. https://www.microsoft.com/pt-br/privacy/privacystatement
+28. https://www.microsoft.com/en-us/privacy/privacystatement
+29. 
 
 
 ## Licença
