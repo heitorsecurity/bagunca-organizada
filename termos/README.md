@@ -15,7 +15,14 @@ Um repositório de todos os termos que eu tive contato e que achei útil salvar.
 9. https://www.douyu.com/cms/ptgz/202008/06/16154.shtml
 10. https://www.douyu.com/cms/ptgz/202007/31/16102.shtml
 11. https://www.douyu.com/cms/ptgz/202008/04/16118.shtml
-12. 
+12. https://brave.com/privacy/browser/
+13. https://brave.com/privacy/website/
+14. https://brave.com/privacy/publishers-creators/
+15. https://hotmart.com/pt-br/legal/politica-de-cookies
+16. https://nordlayer.com/privacy-policy/
+17. https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers
+18. https://www.cisco.com/c/en/us/about/legal/privacy-full.html
+19. 
 
 
 ## Licença
